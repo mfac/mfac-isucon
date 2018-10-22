@@ -1,0 +1,7 @@
+<html>
+    mfac isucon portal
+
+    <form method="POST" action="/logout">
+         <input type="submit" value="logout">
+    </form>
+</html>

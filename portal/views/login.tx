@@ -1,0 +1,13 @@
+<html>
+    <h1>LOGIN</h1>
+
+    <p>
+        案内済みのログイン名とパスワードを使ってログインしてください
+    </p>
+    
+    <form method="POST" action="/login">
+         name <input type="text" name="name">
+         password <input type="password" name="password">
+         <input type="submit" value="submit">
+    </form>
+</html>

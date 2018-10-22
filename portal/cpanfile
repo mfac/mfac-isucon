@@ -1,0 +1,15 @@
+requires 'DBIx::Sunny';
+requires 'DBIx::Handler';
+requires 'DBD::mysql';
+requires 'Kossy';
+requires 'Plack::Builder';
+requires 'Plack::Middleware::ReverseProxy';
+requires 'Starlet';
+requires 'JSON::XS';
+requires 'Resque';
+requires 'Capture::Tiny';
+requires 'Log::Minimal';
+requires 'Plack::Middleware::Session::Cookie';
+
+requires 'Data::Printer';
+

@@ -1,0 +1,10 @@
+requires 'parent';
+requires 'DBIx::Sunny';
+requires 'DBD::mysql';
+requires 'Kossy';
+requires 'Plack::Builder';
+requires 'Plack::Middleware::ReverseProxy';
+requires 'Starlet';
+requires 'URI::Escape';
+requires 'JSON::XS';
+requires 'JSON::Types';
