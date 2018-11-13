@@ -10,9 +10,9 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/kfly8/mfac-isucon/bench/checker"
-	"github.com/kfly8/mfac-isucon/bench/score"
-	"github.com/kfly8/mfac-isucon/bench/util"
+	"github.com/mfac/mfac-isucon/bench/checker"
+	"github.com/mfac/mfac-isucon/bench/score"
+	"github.com/mfac/mfac-isucon/bench/util"
 )
 
 // Exit codes are int values that represent an exit code for a particular error.

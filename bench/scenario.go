@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/kfly8/mfac-isucon/bench/checker"
+	"github.com/mfac/mfac-isucon/bench/checker"
 )
 
 type APIMemoList struct {

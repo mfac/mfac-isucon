@@ -5,8 +5,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/kfly8/mfac-isucon/bench/util"
 	"github.com/marcw/cachecontrol"
+	"github.com/mfac/mfac-isucon/bench/util"
 )
 
 type cacheStore struct {
